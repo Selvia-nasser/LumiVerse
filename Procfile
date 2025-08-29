@@ -1,0 +1,1 @@
+web: python mqtt_flutter_app.py
