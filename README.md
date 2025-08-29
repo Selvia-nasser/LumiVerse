@@ -1,4 +1,5 @@
 🌈 LumiVerse
+
 🌟 Overview
 
 LumiVerse is built for all children – especially those with autism or communication challenges – who sometimes struggle to express or understand emotions.
@@ -7,6 +8,7 @@ Our system gives them a supportive companion that can recognize and visualize em
 Through IoT, cloud services, and AI-powered emotion analysis, LumiVerse is not just a monitoring tool – it’s a bridge for empathy and understanding. 💜
 
 ⚙ Core Features
+
 ESP32 Microcontroller
 
 Collects real-time sensor data.
@@ -56,6 +58,7 @@ Dashboard with real-time sensor & emotion data.
 Alerts + History.
 
 Flask API: Middleware for querying last detected emotion.
+
 FastAPI: Extended APIs for chatbot + integrations.
 
 🚀 Tech Stack
