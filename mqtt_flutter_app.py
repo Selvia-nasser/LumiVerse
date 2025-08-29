@@ -19,6 +19,7 @@ def play_sound():
     payload = json.dumps({"character": character, "sound": sound})
 
     try:
+        # إرسال الرسالة فعليًا لـ MQTT
         publish.single(
             MQTT_TOPIC,
             payload,
